@@ -22,3 +22,4 @@ public class Calculate {
     System.out.println("Perimeter of a rectangle is " + perimeter);
   }
 }
+
